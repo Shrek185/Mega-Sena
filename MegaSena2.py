@@ -12,6 +12,7 @@ Simulação e otimização: É possível usar técnicas de simulação e otimiza
 Combinações inteligentes: Em vez de gerar os palpites de forma completamente aleatória, você pode considerar gerar combinações inteligentes baseadas em padrões observados nos resultados anteriores. Por exemplo, escolher números que formam sequências, combinações de números primos, ou outras características que podem aumentar ligeiramente as chances de acerto.
 """
 # Importa a função 'sample' do módulo 'random' para gerar amostras aleatórias e a função 'sleep' do módulo 'time' para introduzir atrasos.
+import tkinter as tk
 from random import sample
 from time import sleep
 
@@ -49,3 +50,5 @@ def main():
 if __name__ == "__main__":
     # Chama a função principal 'main()' para iniciar o programa.
     main()
+    
+    
