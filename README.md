@@ -1,5 +1,5 @@
 # Criação da pagiana web 
-
+Criaçao simples de uma pagina uma weba para primeia vesão do palpite
 
 # Sorteio da Mega Sena
 
